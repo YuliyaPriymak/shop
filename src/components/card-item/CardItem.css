@@ -1,0 +1,7 @@
+.card-image img {
+    width: 100%;
+}
+.card-image {
+    max-width: 50px;
+    width: 100%;
+}
